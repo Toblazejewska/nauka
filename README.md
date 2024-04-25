@@ -21,7 +21,11 @@ sprawdzenie statusu
 
 ### Test
 
+xyz
+
 ## Tig
+
+
 
 tig to pomocniczy program
 
