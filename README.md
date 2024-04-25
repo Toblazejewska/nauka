@@ -22,3 +22,5 @@ sprawdzenie statusu
 ## Tig
 
 tig to pomocniczy program
+
+## kolejny
