@@ -17,4 +17,6 @@ sprawdzenie statusu
 
 ### 'git commit'
 
+### 'git diff'
+
 ### Test
