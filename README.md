@@ -18,3 +18,7 @@ sprawdzenie statusu
 ### 'git commit'
 
 ### Test
+
+## Tig
+
+tig to pomocniczy program
