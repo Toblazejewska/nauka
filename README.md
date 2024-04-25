@@ -1,5 +1,19 @@
 # Szkolenie z gita
 
+## instalacja 
+
+Windows: <https://git-scm.com/download/win>
+
 ## podstawowe polecenia
 
-'git status'
+### 'git init'
+
+stworzenie nowego
+**Uwaga! najpierw należy założyć pusty katalog i wejsc do niego
+
+### 'git status'
+
+sprawdzenie statusu
+
+### 'git commit'
+
