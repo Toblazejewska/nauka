@@ -21,6 +21,8 @@ sprawdzenie statusu
 
 ### Test
 
+Jest to linia testowa.
+
 ## Tig
 
 tig to pomocniczy program
