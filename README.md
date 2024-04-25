@@ -21,9 +21,7 @@ sprawdzenie statusu
 
 ### Test
 
-
-xyz
-
+Jest to linia testowa
 
 ## Tig
 
@@ -32,3 +30,7 @@ xyz
 tig to pomocniczy program
 
 ## kolejny
+
+## Master
+
+Text na masterze
