@@ -20,3 +20,9 @@ sprawdzenie statusu
 ### 'git diff'
 
 ### Test
+
+## Tig
+
+tig to pomocniczy program
+
+## kolejny
