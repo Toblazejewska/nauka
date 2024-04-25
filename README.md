@@ -36,3 +36,5 @@ tig to pomocniczy program
 Text na masterze
 
 Inny text na masterze
+
+Jeszcze inny tekst
